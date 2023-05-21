@@ -72,31 +72,39 @@ Creemos que estos tipos de perfiles son muy comunes en este tipo de eventos. En 
 >>> - Comentario sobre la valoración:  En términos generales creemos que la web satisface las necesidades que tienen los clientes. Además está adaptada a las tecnologías utilizadas en la actualidad. En todo momento el usuario sabe en qué punto se encuentra y que es lo que debe hacer. Refleja estas valoraciones la puntuación final que ha tenido una vez realizado el Usability Review, 81 puntos. No obstante, hemos detectado puntos de mejora . Según el objetivo del usuario la navegación y experiencia utilizando la web puede variar provocando la insatisfacción de este mismo. La fluidez es un punto a tener en cuenta y a mejorar en posibles nuevas versiones de la web. A esto se le añade la ambigüedad de algunas secciones que podrían fusionarse para mejorar la eficiencia de la web. 
 
 
-
 ## Paso 2. UX Design  
 
 
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
 ----
+Una vez terminada la primera práctica, empezamos con el análisi de la web "Alboreá Flamenco". Para ello, definimos la malla receptora. Consta de cuatro apartados que nos van a permitir poder asentar las bases del futuro prototipo que vamos a realizar. 
+
+En primer lugar, los elementos que nos han parecido interesantes. Nos ayudarán a tener una primera idea de aquello que al usuario les facilita la navegación, el entendimiento...
+
+En segundo lugar, las críticas. Aquellos aspectos que no nos acaban de convencer. No obstante, rediseñados y recolocados en la futura web pueden ser útiles.
+
+En tercer lugar, un apartado para las preguntas. En este caso, los potenciales usuarios, definidos en la anterior práctica, suguieren nuevas funcionalidades que ayudarían a mejorar su experiencia de usuario.
+
+Finalmente, las nuevas ideas. Aportadas por parte de los desarrolladores. Tiene como objetivo descubrir necesidades ocultas, que los usuarios no saben ni que existen ni que les hacen falta, pero mejoraría sus vivencias dentro de la web.
 
 <img width="3734" alt="Malla_receptora (1)" src="https://github.com/VidalMiquel/DIU/assets/61268020/189778bd-6ce1-4307-8170-9c4d505f242b">
-
-    
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
-
 
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> Propuesta de valor 
-<img width="2085" alt="scope_canvas_5_print_es (1)" src="https://github.com/VidalMiquel/DIU/assets/61268020/434f259c-79aa-4f80-b511-487bb097ed2d">
+Una vez completada la malla receptora, se propone mejorar la web de la alborea añadiendo aquellas nuevas ideas propuestas anteriormente e intentando mejorar los puntos planteados en la crítica constructiva. Además, se mantendrán aquellos elementos considerados como interesantes. Se tratará de diseñar la web de forma que resulte intuitiva para los usuarios con el objetivo de que tenga las menores dudas posible durante el uso de la misma. 
 
+El objetivo es conseguir una web adaptada para todos los publicos, que incluya contenido de calidad e interesante. Se tratará que se fácil de navegar, que tenga una estructura clara y organizada, divida en secciones, facilitando la lectura de la información. Además, se establecerán estrategias para fidelizar a los clientes más experimentados y apasionados por el flamenco. También se implementará la posibilidad de personalizar la experiencia del usuario mediante la sección "Área de cliente".
+
+<img width="2085" alt="scope_canvas_5_print_es (1)" src="https://github.com/VidalMiquel/DIU/assets/61268020/434f259c-79aa-4f80-b511-487bb097ed2d">
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
+Realizado el análisis profundo de la web, listamos los primeros aspectos del futuro prototipo, en este caso, las acciones que van a poder realizar los usuarios. Para ello nos basamos en los apuntados en el apartado "Acciones" de la propuesta de valor. Hemos dividido el trabajo en dos secciones.
+
+En la primera de todas, mediante el uso de una tabla indicamos la frecuencia de uso (Alta/Media/Baja) de la tareas anotadas en base a los grupos identificados. Dichos conjuntos estan divididos según si son residentes o turistas. Dentro de estos hemos segmentado según la edad. Destacar que las tareas remarcadas en gris son aquellas que se tienen que diseñar con un mayor detalle.
+
+Y en segundo lugar, y con el objetivo de profundizar en el tema y evitar ambigüedades a la hora de desarrolar, hemos listado las subtareas que se deben llevar a cabo por cada tarea identificada en la tabla anterior. Esto nos permitiría estimar con presición las horas de trabajo a invertir en caso de implementar un prototipo totalmente funcional.
 
 ![Tareas_page-0001](https://github.com/VidalMiquel/DIU/assets/61268020/a6811206-4d10-4cdb-a071-2799481ead5d)
 ![Tareas_page-0002](https://github.com/VidalMiquel/DIU/assets/61268020/56e733b2-b085-4c28-9405-ccdf122fdeaa)
