@@ -2,19 +2,18 @@
 Prácticas Diseño Interfaces de Usuario 2022-23 (Tema: .... ) 
 
 Grupo: DIU1_01AABB.  Curso: 2022/23 
-Updated: 11/1/2023
-
-
+Updated: 22/05/2023
 
 Proyecto: 
 >>> Decida el nombre corto de su propuesta en la práctica 2 
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+Nuestro objetivo es lograr una página web que se adapte a todas las audiencias, ofreciendo contenido de calidad e interesante. Nos aseguraremos de que sea fácil de navegar, con una estructura clara y organizada dividida en secciones, para facilitar la lectura de la información. Asimismo, implementaremos estrategias para mantener la fidelidad de nuestros clientes más experimentados y apasionados por el flamenco.
 
 Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+
+<img width="96" alt="logo_alborea" src="https://github.com/VidalMiquel/DIU/assets/61268020/07404f34-c77e-4046-b6b8-3f604cc31c24">
 
 Miembros
  * :bust_in_silhouette:   Miquel Vidal Cortes    :octocat:   https://github.com/VidalMiquel  
@@ -116,9 +115,13 @@ Y en segundo lugar, y con el objetivo de profundizar en el tema y evitar ambigü
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
+Uno de los puntos principales antes de empezar a prototipar es tener claro el flujo de navegación que va a seguir el usuario una vez entre dentro de la web. En primer lugar detallar que hemos utilizado 4 tipo de colores para representar las diferentes páginas (lila), secciones (amarillo), contenidos (verde) y redireccionamientos (rojo). 
+
+A partir de aquí, dejar claro que la web está dividida en dos partes, una primera parte de obtención de información (sobre nosotros, programación, contacto, comprar entradas...) y otra orientada al usuario, hemos añadido como necesidad oculta una Área de Cliente. Es por eso que dentro de dicha página tenemos otras páginas, el contenido a mostrar está repartido de manera totalemnte diferente a la primera parte de la web.
+
 <img width="14537" alt="Arquitectura de información" src="https://github.com/VidalMiquel/DIU/assets/61268020/023c58bf-16b7-4f0f-86ff-ccf34bfc48b8">
 
->>> Identificar términos para diálogo con usuario  
+Para cada elemento que podemos identificar dentro de la arquitectura de la información proporiconada anteriormente, tenemos una etiqueta asociada a él. A continuación, y usando una tabla "Valor-Explicación" se detalla que va a poder encontrar dentro de ella.
 
 ![Tabla labeling_page-0001](https://github.com/VidalMiquel/DIU/assets/61268020/ea73ee17-11ae-4335-a656-d5aff2c015dc)
 ![Tabla labeling_page-0002](https://github.com/VidalMiquel/DIU/assets/61268020/a71bb831-56b8-484a-a581-93b4533f8bf0)
@@ -128,8 +131,14 @@ Y en segundo lugar, y con el objetivo de profundizar en el tema y evitar ambigü
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
+De todos los elementos definidos en el flujo ya presentado, hemos realizado un primer boceto para tener una primera idea de las páginas que hemos considerado que son más importantes. Se trata e una aproximación incial del diseño de la misma, por lo que no se considera el uso de colores, imagenes ni ningun tipo de interacción con otras páginas. Además, las plantillas están dividas en 12 columnas para garantizar que la información esta bien organizada. Como podemos observar, se han añadido grises para representar los cambios de secciones dentro dentro de una misma página (en futuras prácticas se utilizarán colores) y se han añadido algunos posibles elementos para los bocetos finales como las opiniones de los usarios, faqs, formularios, etc.
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+En primer lugar, del home. Hemos decidido llevarlo a cabo debido a la ámplia remodelación que le hacia falta. 
+
+En segundo lugar, las experiencias. Al haber fusionado dos páginas de la anteriror web era falta su diseño. A partir de aquí también hemos llevado a cabo el proceso secuencial de la compra de la entrada. Totalmente complementario a las experiencias. Era necesario representarlo.
+
+Y en tercer lugar, todo lo involucrado con la Área de cliente. Des de el login, el crear usuario hasta las pantallas que la conformarán.
+
 ![b1](https://github.com/VidalMiquel/DIU/assets/61268020/d180420f-f84d-4a33-a108-6344f1da7243)
 <img width="4044" alt="b2" src="https://github.com/VidalMiquel/DIU/assets/61268020/c62fd128-f284-4b5c-afe8-a7489b1600c2">
 <img width="5256" alt="b3" src="https://github.com/VidalMiquel/DIU/assets/61268020/b9b6d9cd-5afa-4ee3-8dc4-c8969211faf3">
@@ -140,18 +149,74 @@ Y en segundo lugar, y con el objetivo de profundizar en el tema y evitar ambigü
 
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
+Una vez hemos tenido los primero bocetos de las páginas a prototipar nos centramos en los estilos visuales. Para ello, nos centramos en definir una guía que nos permitirá en todo momento tener una referencia clara a la hora de implementar cualquier tipo de elemento. 
+
+En primer lugar, nos centramos en el **LOGOTIPO**. Hemos considerado varios escenarios. En primer lugar conseervar el logo de Alboreá Flamenco. Es un diseño llamativo, pero decididos que queríamos algo más sencillo. Nos pusimos a buscar IAs de creación de logotipos. Despúes de probar un par, nos decantamos por https://studio.tailorbrands.com/, debido a que era una de las pocas que cumplía con nuestros requisitos: diferentes colores, tipográfias y, sobretodo, iconografías flamenca. Finalmente el resultado fue el siguiente:
+
+<img width="96" alt="logo_alborea" src="https://github.com/VidalMiquel/DIU/assets/61268020/3e83e9c7-3336-49f2-a4f2-d5a70dec0590">
+
+El uso del negro y el blanco en el logo proporciona un contraste notable entre ambos colores. El contraste alto entre el negro y el blanco crea una separación visual clara y nítida, lo que ayuda a que el logo destaque y sea fácilmente legible y reconocible. Además, El negro y el blanco son colores clásicos asociados con la elegancia y la sofisticación.
+
+La inclusión de una figura de una flamenca en el logo ayuda a los usuarios a comprender rápidamente de qué trata la web que van a visitar. La flamenca es un símbolo asociado con la cultura y tradiciones del flamenco, por lo que se establece una conexión visual inmediata con ese tema.
+
+Además del diseño gráfico, el logo incluye el nombre de la web, lo que proporciona una identificación clara y legible de la marca o el nombre de la página.
 
 
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+En segundo lugar, la **PALETA DE COLORES**.  Haciendo uso de la web http://www.paletton.com/ elegimos la siguiente paleta de colores:
 
+![image](https://github.com/VidalMiquel/DIU/assets/61268020/56309e67-f581-4ff3-8d5a-5c2e50b2b3fd)
+
+El objetivo de la paleta de colores es proporcionar contraste y resaltar las partes importantes de la página. Se utilizan varios colores para diferentes elementos:
+
+El negro se utiliza en el encabezado y el pie de página para resaltar el contenido principal de la página al hacerlos menos llamativos.
+
+El rojo se utiliza en los botones para destacar frente a los fondos de la página y llamar la atención de los usuarios. También se utiliza el rojo para indicar la importancia de los botones.
+
+El verde y el blanco se utilizan en las secciones principales para dividir subsecciones de una misma página y separar los contenidos. Estos colores más suaves se utilizan para evitar restar importancia a los botones y permitir que los usuarios los distingan correctamente.
+
+El blanco también se utiliza en el encabezado y el pie de página, tanto para el logotipo como para diferenciar las diferentes secciones. El contraste proporcionado permite una visualización adecuada de los distintos elementos.
+
+En resumen, nos hemos inspirado en los colores típicos de la vestimenta del flamenco para crear una conexión visual con el mundo del flamenco y captar la atención de los usuarios.
+
+
+En tercer lugar, la **ICONOGRAFÍA.  
+
+El objetivo de los iconos elegidos es representar de forma sencilla las acciones realizadas o realizar de tal forma que cualquier usuario pueda entenderlas fácilmente. A continuación se muestran algunos ejemplos:  
+
+![image](https://github.com/VidalMiquel/DIU/assets/61268020/7b1b2095-4128-48e6-915a-5452bbadb20f)
+
+Todos excepto el icono de whats app sigue el mismo patrón, fondo blanco con relleno negro, permitiendo que quede resaltado sobre fondos verdes y blancos.
+
+Consideremos que el uso de iconos puede mejorar la experiencia del usuario, facilitar la comprensión de la información y las acciones, y proporcionar una estética visual atractiva y coherente en toda la página web, también hemos tenido en cuenta la accesibilidad de tal forma que algunos de los iconos presentes en el prototipo final tienen un texto descriptivo asociado especialmente para aquellos usuarios que dependen de tecnologías de asistencia como lectores de pantalla.
+
+En cuarto lugar, la **TIPOGRAFÍA**. Hemos escogido la Abhaya Libre Semibold, ofrece una buena legibilidad gracias a su estilo semi-negrita y es adecuada tanto para los títulos como para aquellos textos más pequeños. Además, consideramos que su estilo elegante y clásico refleja la delicadeza y cultura del flamenco. 
+
+![image](https://github.com/VidalMiquel/DIU/assets/61268020/12b323fe-dbbf-4859-b320-faa10e8010ab)
+
+Finalmente apuntar que nos hemos inspirado en las siguientes **WEBs** para llevar a cabo nuestro prototipo final:
+
+1. https://generatorlanding.com/
+2. https://mallorcaevents.web.app/
+3. https://alboreaflamenco.com/
+ 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
+Otro de los aspectos importantes es el diseño de una buena landing page. Recordar que el objetivo principal de una landing page es convertir a los visitantes en clientes potenciales o reales. Es por ello que hemos decidido que la siguiente estrucutra es la adecuada en base a los objetivos que tenemos (informar y fidelizar al cliente).
 
+**Header**: La cabecera de la landing page será llamativa, con un video de fondo que muestra un espectáculo de flamenco para captar la atención de los usuarios. Incluirá el logotipo y un eslogan que representa la pasión y elegancia del flamenco.
 
->>> Plantear Landing Page 
+**Problema y solución**: Se abordarán los prejuicios y malentendidos sobre el flamenco, presentándolo como una expresión artística elegante y pasional. El objetivo es corregir la visión errónea y mostrar que el flamenco puede ser disfrutado por cualquier persona.
+
+**Características**: Se destacarán las principales características y funcionalidades del tablao, como las distintas experiencias disponibles, los precios competitivos y la variedad de artistas. Se utilizarán imágenes y videos para una descripción más detallada.
+
+**Quienes somos**: Se proporcionará información sobre el dueño del tablao, destacando su relación y pasión por el flamenco, así como los premios y logros obtenidos para generar confianza y credibilidad.
+
+**Para quién es**: Se dejará claro que el tablao está abierto a todos los públicos, desde jóvenes hasta mayores, y desde expertos apasionados hasta aquellos que descubren el flamenco recientemente. No se requiere experiencia previa para disfrutar del espectáculo.
+
+**Testimonios**: Se mostrarán opiniones reales de usuarios satisfechos que hayan asistido a espectáculos anteriores.
+
+**CTA**: Al final de la landing page, se incluirá un botón de "¡Me interesa!" o "¡Reserva tu entrada ahora!" en color rojo, que dirige a los usuarios a la página de compra de entradas. El CTA estará centrado para captar la atención de los usuarios.
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
