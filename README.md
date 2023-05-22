@@ -220,9 +220,45 @@ Otro de los aspectos importantes es el diseño de una buena landing page. Record
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
+El diseño general de la web se basa en una cuadrícula de 12 columnas para distribuir y alinear el contenido de manera ordenada. Las páginas se dividen en filas, incluyendo un header y un footer fijos, pudiendo aumentar las filas según el contenido. El objetivo es mantener la coherencia visual y facilitar la navegación.
 
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+Aspectos importantes de la web:
+
+**Header**: Inspirado en el patrón de diseño "Navigation Tab". Incluye enlaces a distintas secciones, el logo y la selección de idiomas disponibles.
+
+![image](https://github.com/VidalMiquel/DIU/assets/61268020/ca6a6415-9b60-4f20-bbbb-0d4c4d132649)
+
+**Footer**: Basado en el patrón de diseño "Fat footer". Dividido en cuatro columnas con información relevante, como el logo para volver a la página principal, ubicación y contacto, enlaces a redes sociales y avisos legales.
+
+![image](https://github.com/VidalMiquel/DIU/assets/61268020/44de7b25-c526-4f0e-8863-12a10ec4da96)
+
+**Separación de subsecciones**: Se utilizan los colores verde y blanco para crear contraste y diferenciar los contenidos en una misma página.
+
+![image](https://github.com/VidalMiquel/DIU/assets/61268020/913162b2-068e-4d11-9b48-f473adebd6f1)
+
+**FAQS**: En la sección de entradas, se incluye una subsección de preguntas frecuentes para facilitar la consulta rápida.
+
+![image](https://github.com/VidalMiquel/DIU/assets/61268020/0edae95a-9f76-4776-97f1-346eff6a91a3)
+
+**Imágenes y opiniones de usuarios**: Se utiliza un carrusel para mostrar imágenes y opiniones, optimizando el espacio y evitando sobrecargar al usuario.
+
+![image](https://github.com/VidalMiquel/DIU/assets/61268020/f14d3f97-ffd8-475f-a72e-0500b7714ad1)
+
+**Selección de fechas**: Se utiliza un "calendar picker" para mostrar rápidamente los días disponibles, no disponibles y seleccionados por el usuario.
+
+![image](https://github.com/VidalMiquel/DIU/assets/61268020/61fbb549-022e-4fb3-91ec-f51dc9297431)
+
+**Proceso de compra**: Se sigue el patrón "wizard" con "steps left", indicando visualmente el paso actual del proceso. Los usuarios pueden retroceder o continuar, y al completar todos los pasos se muestra un resumen de la compra.
+
+![image](https://github.com/VidalMiquel/DIU/assets/61268020/7696fffa-7704-4b8e-b76d-51505eadc7f5)
+
+**Cambio de idioma**: Se utiliza un menú desplegable con opciones de español, inglés y japonés para cambiar el idioma de la web. Hemos intentado minimizar el uso de drops downs para optimizar el espacio y hacer la web más intuitiva, sustituyendolos por botones y contadores.
+
+![image](https://github.com/VidalMiquel/DIU/assets/61268020/f5458aef-6a8a-498d-a47c-33fcc3b2a9a2)
+
+**Registro de usuarios**: Los usuarios pueden registrarse para realizar modificaciones en sus compras o recibir ventajas adicionales. Se utiliza un formulario y una vez registrados, pueden acceder a su perfil y editarlo si es necesario.
+
+![image](https://github.com/VidalMiquel/DIU/assets/61268020/2e8d7809-3552-4a7b-9f80-3068450d5eb3)
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
