@@ -262,10 +262,15 @@ Aspectos importantes de la web:
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
+Finalmente, con todo lo explicado anteriormente, obtenemos el prototipo final, en el cual aplicamos todo lo visto. Adjuntamos dos links que contienen toda la información necesaria.
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+En primer lugar, enlace a un breve video explicativo de como funciona el prototipo. Tiene como objetivo soluiconar posibles confusiones.
+https://drive.google.com/file/d/1zZLFkcHLRn_laLMmnIx2BG-LK4HsECyJ/view?usp=share_link
 
+En segundo lugar, enlace al archivo de figma en el cual se encuentra el prototipado.
+https://www.figma.com/file/0ToFALcqmzPNvUOv0e8w4j/Prototipo-(Copy)?type=design&node-id=0%3A1&t=OP6oqzXSLnukIsxO-1
 
+Y finalmente
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
 
