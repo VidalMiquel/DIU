@@ -284,66 +284,75 @@ Y finalmente
 
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
 ----
+El caso asignado para testear lo ha realizado el equipo UwChads. Es un buscador de actividades a realizar en Granada de diferentes ámbitos culturales, deportivos, musicales... Ofrece un catálogo que nos permite visualizar la oferta que propone añadiendo información para cada una de las actividades. 
 
+Se encuentra en el siguiente repositorio de github: https://github.com/JaimeUGR/DIU_UwUchads
 
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
-
+Además de poder testearlo en el siguiente enlace: https://www.figma.com/proto/CGnqKBesW4RV1zjDJ2Iges/P3_Pagina?page-id=0%3A1&type=design&node-id=1-4&viewport=1501%2C951%2C0.32&scaling=scale-down&starting-point-node-id=1%3A4
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
-----
 
->>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
- 
+Añadir que a cada usuario le hemos asignado como identificar una combinación formada por un número y la letra del prototipo que va a testear. Recordar que el A es nuestro prototipo (MiAu) y el B el prototipo de nuestros compañeros (UwChads). Esto nos permitirá en el próximo informe diferenciar usuarios/prototipos fácilmente.
 
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+![image](https://github.com/VidalMiquel/DIU/assets/61268020/e7429a99-7c03-4826-84dc-999ed391d17f) 
 
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
+Adjuntamos la captura del resultado obtenido de aplicar el cuestionario SUS sobre el prototipo asigando. Recordar que, en este caso, nos tenemos que centrar en los resultados del equipo UwuChads, el prototipo B. Este ha sigo testeado por los usuarios 3B y 4B. 
 
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
+![image](https://github.com/VidalMiquel/DIU/assets/61268020/7e66b5dd-db11-4642-b11f-7f3fae988b13)
 
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
-
+En forma de conclusiones, vemos que en lineas generales presenta una usabilidad correcta pero debería mejorar algunos aspectos con el objetivo de de que el usaurio pueda tener una experiencia plena y satisfactorio. Los comentaremos en el Usability Report. 
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
->> Añadir report de usabilidad para práctica B (la de los compañeros)
+Adjuntamos el informe de usabilidad que hemos realizado a nuestros compañeros. 
 
+[P4_UsabReport_UwUChads_doneby_DIU1_MiAu.pdf](https://github.com/VidalMiquel/DIU/files/11653884/P4_UsabReport_UwUChads_doneby_DIU1_MiAu.pdf)
 
 
 >>> Valoración personal 
 
 
->>> ## Paso 5. Evaluación de Accesibilidad  (no necesaria)
+Después de realizar pruebas, hemos identificado los siguientes puntos a mejorar en el diseño y funcionalidad de la aplicación:
 
+1.Mejorar el diseño oscuro de alto contraste para que sea más legible y amigable.
 
->>> ![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report 
->>>> ----
+2.Agregar una opción de regresar al inicio de una página y considerar un "sticky header" para facilitar la navegación.
 
->>> Indica qué pretendes evaluar (de accesibilidad) sobre qué APP y qué resultados has obtenido 
+3.Reducir el tamaño de las opciones en el catálogo y mejorar el contraste para una mejor visualización de las actividades.
 
->>> 5.a) Evaluación de la Accesibilidad (con simuladores o verificación de WACG) 
->>> 5.b) Uso de simuladores de accesibilidad 
+4.Proporcionar una indicación clara de la sección actual para una navegación más intuitiva.
 
->>> (uso de tabla de datos, indicar herramientas usadas) 
+5.Diferenciar claramente la información de compra de la información de la actividad y simplificar el proceso de compra en pasos.
 
->>> 5.c Breve resumen del estudio de accesibilidad (de práctica 1) y puntos fuertes y de mejora de los criterios de accesibilidad de tu diseño propuesto en Práctica 4.
+6.Resumir la información en la aplicación, incluir interlineados para mejorar la lectura y agregar un botón de contacto con el soporte.
 
+Puntos destacables de la aplicación:
+
+1.Uso de un buscador que facilita la búsqueda de actividades.
+
+2.A pesar del alto contraste, el uso del amarillo y negro crea un aspecto visual atractivo. Sin embargo, se sugiere considerar cambiar el tono de amarillo para reducir el contraste.
+
+3.La sección de usuario es completa y fácil de usar.
+
+4.El logo incluye un enlace al home page, lo que permite regresar fácilmente a la página de inicio desde cualquier sección.
 
 
 ## Conclusión final / Valoración de las prácticas
 
+La valoración final de nuestra aplicación la hemos obtenido a partir de el cuestionario SUS realizado por dos usuarios, la prueba de eye-tracking y el cuestionario SUS hecho por el otro grupo. 
 
->>> (90-150 palabras) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
+En nuestro cuestionario hemos obtenido las puntuaciones 70 y 75, por lo que podemos considerar nuestra web como aceptable tipo C. Cabe destacar que los usuarios han encontrado la web intuitiva y fácil de navegar, por lo que han considerado que no necesitan experiencia para utilizarla.
+
+En el cuestionario SUS realizado por el otro grupo nos han dado las puntuaciones 57.5 y 85, por han considerado la web como marginal y aceptable tipo b respectivamente. El usuario con menor puntuación ha considerado que la página es difícil de navegar por lo que hay bastante discrepancia con las opiniones anteriores. Además, han considerado que el verde claro no es adecuado para el diseño de la web.
+
+Por último, en el eye-tracking hemos obtenido unos resultados aceptables, cupliendose en general los propósitos que propusimos para el diseño, sin embargo, deriamos de rediseñar los botones y las secciones de FAQs, ya que son aquellas a las que los usuarios prestan menos atención.
+
+En conclusión, la puntuación de 57.5 nos sorprende ya que el resto de usuarios no ha tenido ningún problema con la navegación de la web, habiendo bastante discrepancia con el resto de colores. Además, en las pruebas realizadas con el eye-tracking no podemos apreciar que el usuario se distraiga con el color verde del fondo, por lo que consideramos que dicho color no conflictivo en el diseño de la web.
+
 
 
 
